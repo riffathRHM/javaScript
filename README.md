@@ -1,4 +1,5 @@
-# javaScript
+# JavaScript-Slot-Machine
+
 1.Deposite the money
 2.Determine number of lines that you are going to bet
 3.collect the bet amount
